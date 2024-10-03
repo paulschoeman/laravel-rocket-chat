@@ -17,8 +17,7 @@
 	],
 	"prefer-stable": true,
 	"require": {
-		"nategood/httpful": "*",
-		"illuminate/console": "^6.0|^7.0|^8.0|^9.0|^10.0"
+		"nategood/httpful": "*"
 	},
 	"autoload": {
 		"psr-4": {
